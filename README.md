@@ -21,7 +21,7 @@ A clean, browserless web scraper built with Python using the [Thordata Universal
 
 ### 📹 Based on this tutorial
 
-[Python AI Web Scraper Tutorial - Use AI To Scrape ANYTHING](https://youtu.be/Oo8-nEuDBkk?si=03IazmwFF8877Dtl) by [Tech With Time](https://www.youtube.com/@TechWithTim)
+[Python AI Web Scraper Tutorial - Use AI To Scrape ANYTHING](https://youtu.be/Oo8-nEuDBkk?si=03IazmwFF8877Dtl) by [Tech With Tim](https://www.youtube.com/@TechWithTim)
 
 ### 🧪 Usage
 
