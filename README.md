@@ -1,6 +1,6 @@
 ## 🕸️ Thordata AI Web Scraper
 
-A clean, browserless web scraper built with Python using the [Thordata Universal Scraping API](https://www.thordata.com/). Based on the Python AI Web Scraper Tutorial by Tech With Time, but reworked to use Thordata instead — no need for Selenium, browsers, or headless infrastructure.
+A clean, browserless web scraper built with Python using the [Thordata Universal Scraping API](https://www.thordata.com/). Based on the Python AI Web Scraper Tutorial by Tech With Tim, but reworked to use Thordata instead — no need for Selenium, browsers, or headless infrastructure.
 
 ### 🛠️ Tech Stack
 
